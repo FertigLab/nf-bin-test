@@ -1,1 +1,4 @@
-{}
+{
+    "sample": "sample",
+    "outdir": "$.params.dataset.s3|/data/"
+}
