@@ -1,5 +1,5 @@
 process T {
-    container 'rocker/r-base'
+    container 'rocker/r-ubuntu'
     output:
         path 'out0.txt'
         path 'out1.txt'
