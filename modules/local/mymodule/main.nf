@@ -1,4 +1,5 @@
 process T {
+    container 'rocker/r-base'
     output:
         path 'out0.txt'
         path 'out1.txt'
